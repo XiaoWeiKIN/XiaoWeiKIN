@@ -12,9 +12,9 @@ I'm WangXiaowei work for Autohome, Cloud Platform:
 
 - 🔭 I’m currently working on Service Mesh
 - 🌱 I’m currently learning Cloud Native
+- 📫 How to reach me: 2484713618@qq.com
 - 💬 Ask me about ...
 - [✈️直达掘金](https://juejin.cn/user/1345457963148701)
-- 📫 How to reach me: 2484713618@qq.com
 
 ---
 
