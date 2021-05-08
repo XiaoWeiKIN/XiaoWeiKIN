@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi Bro 👋
 
 <!--
-**XiaoweiM/XiaoweiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wangxw666/wangxw666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ---
