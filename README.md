@@ -6,7 +6,7 @@
 
 ---
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wangxw&show_icons=true&theme=merko">](https://metrics.lecoq.io/XiaoWeiKIN?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=XiaoWeiKIN&show_icons=true&theme=merko">](https://metrics.lecoq.io/XiaoWeiKIN?template=classic)
 
 I'm XiaoweiWang work for Autohome, Cloud Platform:
 
